@@ -1,0 +1,22 @@
+.flex-container {
+    display:inline-flex;
+    flex-direction: row-reverse;
+    flex-grow: 2
+    
+
+}
+.flex-item-1 {
+    color: white;
+    background-color: blue;
+    border: 2px black
+}
+.flex-item-2 {
+    color: white;
+    background-color: green;
+    border: 2px black
+}
+.flex-item-3 {
+    color: white;
+    background-color: red;
+    border: 2px black
+}
